@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba31c72a161c6524c80f0948c9d68c3f, type: 3}
+  m_Name: Shares
+  m_EditorClassIdentifier: 
+  shareModels:
+  - shareName: Belson
+    price: 3282
+    description: 
+    trendkeys:
+    - A
+    - C
+    - A
+    - D
+    _newsmodels:
+    - trendkey: A
+      news:
+      - "BELSON, Yeni Nesil Ak\u0131ll\u0131 Ev Cihazlar\u0131 \u0130le Pazarda Yine
+        Liderlik Koltu\u011Funu Ald\u0131!"
+      - "Yapay Zeka Devi BELSON, \u0130novasyonuyla Yeni Bir D\xF6nemi Ba\u015Flat\u0131yor!"
+      - "BELSON'un Yeni \xDCr\xFCn Lansman\u0131yla Ak\u0131ll\u0131 Ev Teknolojilerinde
+        \xC7\u0131\u011F\u0131r A\xE7an Bir Ad\u0131m!"
+    - trendkey: C
+      news:
+      - "BELSON'un Rakiplerine Kar\u015F\u0131 Zorlu M\xFCcadelesi Devam Ediyor:
+        Piyasa Pay\u0131nda D\xFC\u015F\xFC\u015F!"
+      - "Teknolojik Sorunlar Nedeniyle BELSON, Beklenenden Zor Bir D\xF6nem Ge\xE7iriyor."
+      - "Yapay Zeka Piyasas\u0131ndaki Rekabet, BELSON'u Zor Durumda B\u0131rak\u0131yor."
+    - trendkey: D
+      news:
+      - "BELSON, Finansal Ba\u015Far\u0131 ile Yat\u0131r\u0131mc\u0131lar\u0131
+        Memnun Ediyor: B\xFCy\xFCk Bir B\xFCy\xFCme G\xF6steriyor!"
+      - "BELSON, Yeni Pazarlarda H\u0131zla Geni\u015Fliyor: Yat\u0131r\u0131mc\u0131lar\u0131n
+        G\xF6zdesi!"
+      - "Yapay Zeka Devi BELSON, \u015Eimdiye Kadarki En Y\xFCksek Sat\u0131\u015F
+        Rakamlar\u0131n\u0131 A\xE7\u0131klad\u0131!"
+    trendindex: 3
+  - shareName: Khold
+    price: 3225
+    description: 
+    trendkeys:
+    - B
+    - C
+    - D
+    - B
+    _newsmodels:
+    - trendkey: B
+      news:
+      - "KHOLD, Sekt\xF6rdeki Dengesiz Grafikle Dikkat \xC7ekiyor! Yeni \xDCr\xFCn
+        Lansman\u0131yla Beklenmedik Bir Y\xFCkseli\u015F Ya\u015F\u0131yor."
+      - "G\xFCvenlik Devi KHOLD, Dengesiz Trendde Stratejik Bir \u0130\u015F Ortakl\u0131\u011F\u0131
+        \u0130le Yeniden G\xFC\xE7 Kazan\u0131yor!"
+      - "KHOLD'un Dengesiz Grafi\u011Fi, Yat\u0131r\u0131mc\u0131lara Riskli Ancak
+        Y\xFCksek Potansiyelli Bir F\u0131rsat Sunuyor"
+    - trendkey: C
+      news:
+      - "KHOLD, D\xFC\u015F\xFC\u015F Trendinde: Sekt\xF6rdeki Zorluklara Ra\u011Fmen
+        Yenilik\xE7i Projelerle Direncini Art\u0131r\u0131yor."
+      - "Zorlu Bir D\xF6nem: KHOLD, Finansal Zorluklar\u0131yla Ba\u015Fa \xC7\u0131kmak
+        \u0130\xE7in Stratejik Ad\u0131mlar At\u0131yor."
+      - "KHOLD'un D\xFC\u015F\xFC\u015F Trendi, G\xFCvenlik Sekt\xF6r\xFCndeki Rekabetin
+        Artmas\u0131yla Ba\u011Flant\u0131l\u0131 Olarak Devam Ediyor."
+    - trendkey: D
+      news:
+      - "KHOLD, Y\xFCkseli\u015F Trendinde: G\xFC\xE7l\xFC Performans ve Yeni \u0130\u015F
+        F\u0131rsatlar\u0131yla Yat\u0131r\u0131mc\u0131lar\u0131 Memnun Ediyor."
+      - "G\xFCvenlik Devi KHOLD, Sekt\xF6rdeki Y\xFCkseli\u015F Trendiyle Beraber
+        Yeni Pazarlara A\xE7\u0131l\u0131yor!"
+      - "KHOLD, Finansal Ba\u015Far\u0131 ve Yenilik\xE7i Projeler \u0130le Y\xFCkseli\u015Fte:
+        Yat\u0131r\u0131mc\u0131KHOLD, Finansal Ba\u015Far\u0131 ve Yenilik\xE7i
+        Projeler \u0130le Y\xFCkseli\u015Fte: Yat\u0131r\u0131mc\u0131lar\u0131n
+        G\xF6zdesi."
+    trendindex: 3
+  - shareName: RGIRISIM
+    price: 843
+    description: 
+    trendkeys:
+    - B
+    - C
+    - B
+    - A
+    _newsmodels:
+    - trendkey: B
+      news:
+      - "RGIRISIM, \u0130nternet Sekt\xF6r\xFCnde Dengesiz Bir Grafikle Dikkat \xC7ekiyor!
+        Yeni \u0130\u015F Modeli \u0130le Heyecan Verici Bir Y\xFCkseli\u015F Ya\u015F\u0131yor."
+      - "\u0130nternet Devi RGIRISIM, Dengesiz Trendde Yeni Bir \u0130novasyon ile
+        Pazarda Sivriliyor!"
+      - "RGIRISIM, Yat\u0131r\u0131mc\u0131lar\u0131 \u015Ea\u015F\u0131rtarak Dengesiz
+        Ancak \xC7ekici Bir Grafikle Kar\u015F\u0131m\u0131za \xC7\u0131k\u0131yor"
+    - trendkey: C
+      news:
+      - "RGIRISIM, Zorlu Bir D\xF6nemde: \u0130nternet Sekt\xF6r\xFCnde De\u011Fer
+        Kayb\u0131 Ya\u015Fan\u0131yor."
+      - "D\xFC\u015F\xFC\u015F Trendi Devam Ediyor: RGIRISIM, Rekabetin Getirdi\u011Fi
+        Zorluklarla M\xFCcadele Ediyor."
+      - "\u0130nternet Devi RGIRISIM, D\xFC\u015F\xFC\u015F Trendinde Finansal Zorluklar
+        \u0130le Ba\u015F Etme \xC7abas\u0131nda."
+    - trendkey: A
+      news:
+      - "RGIRISIM, \u0130nternet Sekt\xF6r\xFCnde Y\xFCkseli\u015Fte: G\xFC\xE7l\xFC
+        Finansal Performans ve Yeni \u0130\u015F F\u0131rsatlar\u0131!"
+      - "\u0130nternet Devi RGIRISIM, \u0130stikrarl\u0131 Bir Y\xFCkseli\u015F Trendi
+        \u0130le Yat\u0131r\u0131mc\u0131lar\u0131 Memnun Ediyor."
+      - "RGIRISIM, \u0130nternet Arenas\u0131nda Yeniden Parl\u0131yor: Y\xFCkseli\u015F
+        Trendi ve \u0130novasyonla Yat\u0131r\u0131mc\u0131lara G\xFCven Veriyor."
+    trendindex: 3
+  - shareName: Kesk
+    price: 4617
+    description: 
+    trendkeys:
+    - A
+    - D
+    - B
+    - C
+    _newsmodels:
+    - trendkey: C
+      news:
+      - "KESK, Mobilya Sekt\xF6r\xFCnde Beklenmedik Bir D\xFC\u015F\xFC\u015F Ya\u015F\u0131yor:
+        Piyasada Zorlu Ko\u015Fullarla Kar\u015F\u0131 Kar\u015F\u0131ya!"
+      - "D\xFC\u015F\xFC\u015F Trendindeki KESK, Mobilya Sekt\xF6r\xFCndeki Zorluklarla
+        M\xFCcadele Ederken Hisselerinde De\u011Fer Kayb\u0131 G\xF6steriyor"
+      - "Mobilya Devi KESK, D\xFC\u015F\xFC\u015F Trendindeki Hisseleri \u0130le
+        Yat\u0131r\u0131mc\u0131lar\u0131n Endi\u015Fesini \xC7ekiyor."
+    - trendkey: B
+      news:
+      - "KESK, Mobilya Sekt\xF6r\xFCnde Dalgal\u0131 Bir D\xF6neme Giriyor: Piyasada
+        S\xFCrpriz Hareketlerle Yat\u0131r\u0131mc\u0131lar\u0131 \u015Ea\u015F\u0131rt\u0131yor."
+      - "S\xFCrpriz Dalgalanmalar: KESK, Mobilya Sekt\xF6r\xFCnde Hisselerinde Dalgal\u0131
+        Bir Grafikle Dikkat \xC7ekiyor"
+      - "Mobilya Devi KESK, Dalgal\u0131 Trendle Yat\u0131r\u0131mc\u0131lara Riskli
+        Ancak Potansiyel Bir Yat\u0131r\u0131m F\u0131rsat\u0131 Sunuyor"
+    - trendkey: A
+      news:
+      - "\"KESK, Mobilya Sekt\xF6r\xFCnde \u0130stikrarl\u0131 Bir \xC7\u0131k\u0131\u015F
+        Yakal\u0131yor: Yenilik\xE7i Tasar\u0131mlar\u0131 ve G\xFC\xE7l\xFC \u0130\u015F
+        Performans\u0131yla Dikkat \xC7ekiyor."
+      - "Mobilya Devi KESK, \u0130stikrarl\u0131 Trendle Yat\u0131r\u0131mc\u0131lar\u0131na
+        G\xFCven Veriyor: Y\xFCksek Potansiyelli Bir Yat\u0131r\u0131m F\u0131rsat\u0131!"
+      - "KESK, Mobilya Arenas\u0131nda S\xFCrd\xFCr\xFClebilir \u0130stikrar\u0131n\u0131
+        Koruyor: Hisselerindeki Y\xFCkseli\u015F Devam Ediyor."
+    - trendkey: D
+      news:
+      - "KESK, Mobilya Sekt\xF6r\xFCnde Y\xFCkseliyor: Yeni \u0130\u015Fbirlikleri
+        ve Ba\u015Far\u0131l\u0131 Lansmanlarla Hisselerinde Y\xFCkseli\u015F G\xF6steriyor!"
+      - "Yat\u0131r\u0131mc\u0131lar\u0131n Dikkatine: KESK, Mobilya Sekt\xF6r\xFCnde
+        Y\xFCkseli\u015F Trendine Giriyor ve Yat\u0131r\u0131mc\u0131lara Kazand\u0131r\u0131yor."
+      - "Mobilya Devi KESK, Y\xFCkseli\u015F Trendindeki Hisseleri \u0130le Piyasada
+        G\xFC\xE7l\xFC Bir Duru\u015F Sergiliyor."
+    trendindex: 3

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d98e633dd18377f4a9d8c5542dd41f0f, type: 3}
+  m_Name: Credits
+  m_EditorClassIdentifier: 
+  _creditsmodel:
+  - amount: 100000
+    interestrates: 20bf020090d0030030570500
+  - amount: 300000
+    interestrates: a0680600107a0700d04e0900
+  - amount: 500000
+    interestrates: b0000900f00d0c00c0090e00
+  - amount: 1000000
+    interestrates: f042180030501b00004c1d00
