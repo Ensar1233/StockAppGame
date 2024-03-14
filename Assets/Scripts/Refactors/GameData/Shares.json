@@ -1,0 +1,196 @@
+{
+    "_shares": [
+        {
+            "shareName": "Belson",
+            "price": 3317,
+            "description": "",
+            "trendkeys": [
+                "A",
+                "C",
+                "A",
+                "D"
+            ],
+            "lasprices": [
+                3307,
+                3317,
+                3312,
+                3307,
+                3307,
+                3317
+            ],
+            "_newsmodels": [
+                {
+                    "trendkey": "A",
+                    "news": [
+                        "BELSON, Yeni Nesil Akıllı Ev Cihazları İle Pazarda Yine Liderlik Koltuğunu Aldı!",
+                        "Yapay Zeka Devi BELSON, İnovasyonuyla Yeni Bir Dönemi Başlatıyor!",
+                        "BELSON'un Yeni Ürün Lansmanıyla Akıllı Ev Teknolojilerinde Çığır Açan Bir Adım!"
+                    ]
+                },
+                {
+                    "trendkey": "C",
+                    "news": [
+                        "BELSON'un Rakiplerine Karşı Zorlu Mücadelesi Devam Ediyor: Piyasa Payında Düşüş!",
+                        "Teknolojik Sorunlar Nedeniyle BELSON, Beklenenden Zor Bir Dönem Geçiriyor.",
+                        "Yapay Zeka Piyasasındaki Rekabet, BELSON'u Zor Durumda Bırakıyor."
+                    ]
+                },
+                {
+                    "trendkey": "D",
+                    "news": [
+                        "BELSON, Finansal Başarı ile Yatırımcıları Memnun Ediyor: Büyük Bir Büyüme Gösteriyor!",
+                        "BELSON, Yeni Pazarlarda Hızla Genişliyor: Yatırımcıların Gözdesi!",
+                        "Yapay Zeka Devi BELSON, Şimdiye Kadarki En Yüksek Satış Rakamlarını Açıkladı!"
+                    ]
+                }
+            ],
+            "trendindex": 0
+        },
+        {
+            "shareName": "Khold",
+            "price": 3271,
+            "description": "",
+            "trendkeys": [
+                "B",
+                "C",
+                "D",
+                "B"
+            ],
+            "lasprices": [
+                3257,
+                3273,
+                3278,
+                3285,
+                3278,
+                3271
+            ],
+            "_newsmodels": [
+                {
+                    "trendkey": "B",
+                    "news": [
+                        "KHOLD, Sektördeki Dengesiz Grafikle Dikkat Çekiyor! Yeni Ürün Lansmanıyla Beklenmedik Bir Yükseliş Yaşıyor.",
+                        "Güvenlik Devi KHOLD, Dengesiz Trendde Stratejik Bir İş Ortaklığı İle Yeniden Güç Kazanıyor!",
+                        "KHOLD'un Dengesiz Grafiği, Yatırımcılara Riskli Ancak Yüksek Potansiyelli Bir Fırsat Sunuyor"
+                    ]
+                },
+                {
+                    "trendkey": "C",
+                    "news": [
+                        "KHOLD, Düşüş Trendinde: Sektördeki Zorluklara Rağmen Yenilikçi Projelerle Direncini Artırıyor.",
+                        "Zorlu Bir Dönem: KHOLD, Finansal Zorluklarıyla Başa Çıkmak İçin Stratejik Adımlar Atıyor.",
+                        "KHOLD'un Düşüş Trendi, Güvenlik Sektöründeki Rekabetin Artmasıyla Bağlantılı Olarak Devam Ediyor."
+                    ]
+                },
+                {
+                    "trendkey": "D",
+                    "news": [
+                        "KHOLD, Yükseliş Trendinde: Güçlü Performans ve Yeni İş Fırsatlarıyla Yatırımcıları Memnun Ediyor.",
+                        "Güvenlik Devi KHOLD, Sektördeki Yükseliş Trendiyle Beraber Yeni Pazarlara Açılıyor!",
+                        "KHOLD, Finansal Başarı ve Yenilikçi Projeler İle Yükselişte: YatırımcıKHOLD, Finansal Başarı ve Yenilikçi Projeler İle Yükselişte: Yatırımcıların Gözdesi."
+                    ]
+                }
+            ],
+            "trendindex": 0
+        },
+        {
+            "shareName": "RGIRISIM",
+            "price": 856,
+            "description": "",
+            "trendkeys": [
+                "B",
+                "C",
+                "B",
+                "A"
+            ],
+            "lasprices": [
+                837,
+                837,
+                845,
+                839,
+                851,
+                856
+            ],
+            "_newsmodels": [
+                {
+                    "trendkey": "B",
+                    "news": [
+                        "RGIRISIM, İnternet Sektöründe Dengesiz Bir Grafikle Dikkat Çekiyor! Yeni İş Modeli İle Heyecan Verici Bir Yükseliş Yaşıyor.",
+                        "İnternet Devi RGIRISIM, Dengesiz Trendde Yeni Bir İnovasyon ile Pazarda Sivriliyor!",
+                        "RGIRISIM, Yatırımcıları Şaşırtarak Dengesiz Ancak Çekici Bir Grafikle Karşımıza Çıkıyor"
+                    ]
+                },
+                {
+                    "trendkey": "C",
+                    "news": [
+                        "RGIRISIM, Zorlu Bir Dönemde: İnternet Sektöründe Değer Kaybı Yaşanıyor.",
+                        "Düşüş Trendi Devam Ediyor: RGIRISIM, Rekabetin Getirdiği Zorluklarla Mücadele Ediyor.",
+                        "İnternet Devi RGIRISIM, Düşüş Trendinde Finansal Zorluklar İle Baş Etme Çabasında."
+                    ]
+                },
+                {
+                    "trendkey": "A",
+                    "news": [
+                        "RGIRISIM, İnternet Sektöründe Yükselişte: Güçlü Finansal Performans ve Yeni İş Fırsatları!",
+                        "İnternet Devi RGIRISIM, İstikrarlı Bir Yükseliş Trendi İle Yatırımcıları Memnun Ediyor.",
+                        "RGIRISIM, İnternet Arenasında Yeniden Parlıyor: Yükseliş Trendi ve İnovasyonla Yatırımcılara Güven Veriyor."
+                    ]
+                }
+            ],
+            "trendindex": 0
+        },
+        {
+            "shareName": "Kesk",
+            "price": 4632,
+            "description": "",
+            "trendkeys": [
+                "A",
+                "D",
+                "B",
+                "C"
+            ],
+            "lasprices": [
+                4608,
+                4608,
+                4618,
+                4612,
+                4622,
+                4632
+            ],
+            "_newsmodels": [
+                {
+                    "trendkey": "C",
+                    "news": [
+                        "KESK, Mobilya Sektöründe Beklenmedik Bir Düşüş Yaşıyor: Piyasada Zorlu Koşullarla Karşı Karşıya!",
+                        "Düşüş Trendindeki KESK, Mobilya Sektöründeki Zorluklarla Mücadele Ederken Hisselerinde Değer Kaybı Gösteriyor",
+                        "Mobilya Devi KESK, Düşüş Trendindeki Hisseleri İle Yatırımcıların Endişesini Çekiyor."
+                    ]
+                },
+                {
+                    "trendkey": "B",
+                    "news": [
+                        "KESK, Mobilya Sektöründe Dalgalı Bir Döneme Giriyor: Piyasada Sürpriz Hareketlerle Yatırımcıları Şaşırtıyor.",
+                        "Sürpriz Dalgalanmalar: KESK, Mobilya Sektöründe Hisselerinde Dalgalı Bir Grafikle Dikkat Çekiyor",
+                        "Mobilya Devi KESK, Dalgalı Trendle Yatırımcılara Riskli Ancak Potansiyel Bir Yatırım Fırsatı Sunuyor"
+                    ]
+                },
+                {
+                    "trendkey": "A",
+                    "news": [
+                        "\"KESK, Mobilya Sektöründe İstikrarlı Bir Çıkış Yakalıyor: Yenilikçi Tasarımları ve Güçlü İş Performansıyla Dikkat Çekiyor.",
+                        "Mobilya Devi KESK, İstikrarlı Trendle Yatırımcılarına Güven Veriyor: Yüksek Potansiyelli Bir Yatırım Fırsatı!",
+                        "KESK, Mobilya Arenasında Sürdürülebilir İstikrarını Koruyor: Hisselerindeki Yükseliş Devam Ediyor."
+                    ]
+                },
+                {
+                    "trendkey": "D",
+                    "news": [
+                        "KESK, Mobilya Sektöründe Yükseliyor: Yeni İşbirlikleri ve Başarılı Lansmanlarla Hisselerinde Yükseliş Gösteriyor!",
+                        "Yatırımcıların Dikkatine: KESK, Mobilya Sektöründe Yükseliş Trendine Giriyor ve Yatırımcılara Kazandırıyor.",
+                        "Mobilya Devi KESK, Yükseliş Trendindeki Hisseleri İle Piyasada Güçlü Bir Duruş Sergiliyor."
+                    ]
+                }
+            ],
+            "trendindex": 0
+        }
+    ]
+}

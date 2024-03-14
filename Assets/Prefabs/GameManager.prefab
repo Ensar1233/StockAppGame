@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5329103111161272071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5329103111161272065}
+  - component: {fileID: 5329103111161272064}
+  - component: {fileID: 5329103111161272067}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5329103111161272065
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5329103111161272071}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5329103111161272064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5329103111161272071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f30f7a292480e0c4fa66ae46cc8e4040, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kredi:
+  - krediBari: {fileID: 0}
+    krediMiktari: 300000
+    vadeBir: 420000
+    vadeIki: 490000
+    vadeUc: 610000
+  - krediBari: {fileID: 0}
+    krediMiktari: 500000
+    vadeBir: 590000
+    vadeIki: 790000
+    vadeUc: 920000
+  - krediBari: {fileID: 0}
+    krediMiktari: 100000
+    vadeBir: 180000
+    vadeIki: 250000
+    vadeUc: 350000
+  - krediBari: {fileID: 0}
+    krediMiktari: 1000000
+    vadeBir: 1590000
+    vadeIki: 1790000
+    vadeUc: 1920000
+  alinanKredi: 0
+  "uyar\xFDText": {fileID: 0}
+  borcBilgiText: {fileID: 0}
+  buttonList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  krediVadesi: 0
+--- !u!114 &5329103111161272067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5329103111161272071}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809eb5130848266419c602cc0e8aff0f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tmpBakiye: {fileID: 0}
+  tmpKrediBorc: {fileID: 0}
